@@ -13,7 +13,7 @@
 <h2>Instalação</h2>
 <ol>
   <li>Clone o repositório para o seu ambiente local:
-    <pre class="command">git clone https://github.com/titocrf/api-rest-teste.git</pre>
+    <pre class="command">git clone https://github.com/titocrf/api-rest.git</pre>
   </li>
   <li>Instale as dependências do projeto usando o Composer:
     <pre class="command">composer install</pre>
